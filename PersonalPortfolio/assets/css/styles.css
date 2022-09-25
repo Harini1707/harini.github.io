@@ -1,5 +1,17 @@
 /*===== GOOGLE FONTS =====*/
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap");
+span{
+  color:#f9004d;
+}
+.btn{
+  background-color:#f9004d ;
+  color:#fff;
+  text-decoration: dotted;
+  border: 2px solid transparent;
+  font-weight: bold;
+  padding: 10px 25px;
+  border-radius: 30px;
+}
 /*===== VARIABLES CSS =====*/
 :root {
   --header-height: 3rem;
