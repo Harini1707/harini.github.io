@@ -58,7 +58,7 @@
   width: 50%;
   height: 100%;
   position: absolute;
-  background-color: #06e71d;
+  background-color: #5906e7;
   border-radius: 25px;
 }
 .skill_bar .bar .html{
@@ -527,7 +527,7 @@ img {
 
 .footer {
   background-color: var(--second-color);
-  color: #fff;
+  color: rgb(255, 255, 255);
   text-align: center;
   font-weight: var(--font-semi);
   padding: 2rem 0;
