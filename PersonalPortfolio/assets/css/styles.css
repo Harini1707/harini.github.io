@@ -28,7 +28,7 @@
   margin-bottom: -5px;
 }
 .skills_head h2 span{
-  color: #e74d06;
+  color: #4606e7;
 }
 .skills_main{
   width: 100%;
@@ -58,7 +58,7 @@
   width: 50%;
   height: 100%;
   position: absolute;
-  background-color: #e74d06;
+  background-color: #06e71d;
   border-radius: 25px;
 }
 .skill_bar .bar .html{
